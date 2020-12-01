@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FunRead</string>
+    <string name="funread">Добро пожаловать в FunRead! Мы ждали тебя!</string>
+    <string name="buttons">Каталог комиксов</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_reading">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
